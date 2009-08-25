@@ -1,0 +1,6 @@
+Cassandra-Hadoop-BMT 
+======================
+
+Simple example of using the Binary Memtable in Cassandra through Hadoop.
+
+This is a work in progress, much of this has been stripped down from Digg's version (We wrote a custom map/reduce job). A more generic example is forthcoming. This will help to at least get a few people on the right track.
